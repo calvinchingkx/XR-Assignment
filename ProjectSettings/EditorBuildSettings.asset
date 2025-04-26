@@ -4,7 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/haunted_house.unity
+    guid: a8fd41bb1df943447b4de2e871ceee9e
+  - enabled: 0
+    path: Assets/Modular Castle/DemoScene/castleDemo.unity
+    guid: 0f30b31df1c21274da0aa193ec9e46e6
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: aa7a7ea85bfbb414b9e0a65f97d4606b, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1e1ff8093b5a83440b222303f6470bab, type: 2}
