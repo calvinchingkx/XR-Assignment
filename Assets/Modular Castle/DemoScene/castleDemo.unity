@@ -21879,12 +21879,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1156183307}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5000, y: -0.1, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.05, z: 0}
   m_LocalScale: {x: 50, y: 1, z: 50}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1468873083}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1156832222
 PrefabInstance:
@@ -28929,7 +28929,7 @@ GameObject:
   - component: {fileID: 1468873083}
   - component: {fileID: 1468873084}
   m_Layer: 0
-  m_Name: demo
+  m_Name: castle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29395,6 +29395,7 @@ Transform:
   - {fileID: 56283771}
   - {fileID: 2072832524}
   - {fileID: 1989350805}
+  - {fileID: 1156183311}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!64 &1468873084
@@ -46170,4 +46171,3 @@ SceneRoots:
   - {fileID: 928106451}
   - {fileID: 571091546}
   - {fileID: 1468873083}
-  - {fileID: 1156183311}
